@@ -39,5 +39,5 @@ coverage/
 temp/
 
 # not source code
-libheif/
-libheif-wasm/
+#libheif/
+#libheif-wasm/
