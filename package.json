@@ -1,5 +1,5 @@
 {
-  "name": "@descript/libheif-js",
+  "name": "@romain-descript/libheif-js",
   "version": "1.19.8",
   "description": "Emscripten distribution of libheif for Node.JS and the browser",
   "main": "index.js",
