@@ -11,6 +11,7 @@ export interface HeifImage {
 
 export class HeifDecoder {
     decode(buffer: ArrayBuffer): HeifImage[];
+    decoder?: { delete: () => void };
 }
 
 export const fourcc: (code: string) => number;
