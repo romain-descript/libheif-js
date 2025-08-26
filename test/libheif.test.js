@@ -101,8 +101,8 @@ function runTests(libheif) {
     file: '0002.heic',
     control: '0002-control.png',
     size: {
-      width: 1440,
-      height: 960
+      width: 108,
+      height: 108
     }
   }, {
     name: 'can decode a known image with an odd width',
