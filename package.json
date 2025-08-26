@@ -1,6 +1,6 @@
 {
   "name": "@descript/libheif-js",
-  "version": "1.19.8+1",
+  "version": "1.19.9",
   "description": "Emscripten distribution of libheif for Node.JS and the browser",
   "main": "index.js",
   "types": "index.d.ts",
